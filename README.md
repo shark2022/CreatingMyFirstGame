@@ -6,7 +6,7 @@ Niche: Adventure.
 Theme: Ocean/Underwater.
 User will begin game by picking a faction: Fish, Reptile, or Mammal.
 User will pick a race based on chosen faction.
-Fish options include the following races: Shark, Manta Ray, and Swordfish.
+Fish options include the following races: Shark, Manta Ray, and Fish.
 Reptile options include the following races: Saltwater Crocodile, Saltwater Lizard, and Sea Snake.
 Mammal options include the following races: Whale, Dolphin, and Mer-people.
 User will pick a gender: Male or Female.
